@@ -2,10 +2,10 @@ A simple voice-controlled assistant built with Python. It uses Speech Recognitio
 
 Main Features:
 
-Speech to Text using speech_recognition
-Text to Speech using pyttsx3
-Wikipedia Search – Ask questions and get short summaries
-Open Websites (e.g., Google)
-Tell the Time
-Save Notes – Dictate and store your notes in note.txt
+Speech to Text using speech_recognition, 
+Text to Speech using pyttsx3, 
+Wikipedia Search – Ask questions and get short summaries, 
+Open Websites (e.g., Google), 
+Tell the Time, 
+Save Notes – Dictate and store your notes in note.txt, 
 Greetings based on the time of day
