@@ -4,7 +4,7 @@ import datetime
 import webbrowser
 import wikipedia
 
-# Initialize text to speech engine
+
 engine = pyttsx3.init()
 
 def speak(text):
@@ -75,3 +75,4 @@ if __name__ == "__main__":
         elif 'exit' in command or 'quit' in command:
             speak("Goodbye!")
             break
+
